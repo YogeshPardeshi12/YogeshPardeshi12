@@ -1,7 +1,9 @@
 # 💫 About Me:
-I'm a Software Developer specializing in React and .NET technologies, with a passion for building intuitive and efficient software solutions. My expertise spans across frontend development, backend integration, and domain-specific solutions in areas like healthcare and tax compliance.
-
-
+🎓 Master's Degree in Computer Applications<br>
+💻 Passionate Full Stack Developer<br>
+📚 Experienced in React, .net,javascript, Bootstrap, Angular, Python, Spring Boot, SQL,<br>
+💼 Proficient in both frontend and backend development, with a strong focus on frontend development using react and dot net<br>
+🌟 Continuously learning and eager to tackle new challenges<br>
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yogeshsingpardeshi) 
 
