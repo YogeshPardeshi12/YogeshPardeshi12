@@ -1,66 +1,15 @@
+# 💫 About Me:
+I'm a Software Developer specializing in React and .NET technologies, with a passion for building intuitive and efficient software solutions. My expertise spans across frontend development, backend integration, and domain-specific solutions in areas like healthcare and tax compliance.
 
-# 👋 Hi there, I'm [Your Name]!  
 
-![GitHub Profile Banner](https://via.placeholder.com/800x200?text=Welcome+to+My+GitHub+Profile)
-
-I'm a **Software Developer** specializing in **React** and **.NET technologies**, with a passion for building intuitive and efficient software solutions. My expertise spans across **frontend development**, **backend integration**, and **domain-specific solutions** in areas like **healthcare** and **tax compliance**.  
-
----
-
-## 🔧 Technologies & Tools  
-
-### **Frontend**  
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)  
-![PrimeReact](https://img.shields.io/badge/-PrimeReact-42A5F5?logo=prime&logoColor=white&style=flat)  
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwindcss&logoColor=white&style=flat)
-
-### **Backend**  
-![.NET](https://img.shields.io/badge/-.NET-512BD4?logo=dotnet&logoColor=white&style=flat)  
-![C#](https://img.shields.io/badge/-CSharp-239120?logo=csharp&logoColor=white&style=flat)  
-![SQL Server](https://img.shields.io/badge/-SQL_Server-CC2927?logo=microsoftsqlserver&logoColor=white&style=flat)
-
-### **Tools**  
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)  
-![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?logo=visualstudiocode&logoColor=white&style=flat)  
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=flat)
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=YogeshPardeshi12&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=YogeshPardeshi12&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=YogeshPardeshi12&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=YogeshPardeshi12&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🌟 Key Projects  
-
-### **1. E-Invoicing Automation**  
-- **Tech Stack**: React, .NET, JavaScript  
-- **Highlights**:  
-  - File upload feature for **PDF/CSV**, with real-time data extraction into JSON schema.  
-  - Developed advanced **multi-filters** and global search functionality.  
-  - Implemented auto-refresh for live updates and error color-coding.  
-
-### **2. Healthcare Management System**  
-- **Tech Stack**: React, PrimeReact, Tailwind CSS  
-- **Highlights**:  
-  - Built interactive **graphs** and dropdown-based filters for dynamic reporting.  
-  - Added custom **rating system** with star ratings and a popup interface.  
-  - Integrated seamless **API calls** for form validation and data saving.  
-
----
-
-## 🚀 Goals & Vision  
-
-- **Learning**: Continuously adapt to emerging technologies and best practices.  
-- **Collaboration**: Join hands with like-minded developers to build impactful solutions.  
-- **Innovation**: Create software that simplifies processes and delivers real-world value.  
-
----
-
-## 📈 GitHub Stats  
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide=prs&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)  
-
----
-
-## 📫 Let's Connect  
-
-- **LinkedIn**: [Your LinkedIn](https://linkedin.com/in/yourprofile)  
-- **Email**: [your.email@example.com](mailto:your.email@example.com)  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
